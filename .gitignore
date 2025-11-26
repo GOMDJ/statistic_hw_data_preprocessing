@@ -1,0 +1,21 @@
+venv
+processed_data
+raw_data
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Mac
+.DS_Store
+
+#claude
+.claude
