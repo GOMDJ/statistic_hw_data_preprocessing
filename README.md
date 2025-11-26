@@ -136,12 +136,12 @@ IQR_MULTIPLIER = 3
 ## 분석 계획
 
 ### 1. 단순 회귀분석
--[x] <item> **독립변수 1**: 기온 (°C)
-- [] <item> **독립변수 2**: 습도 (%)
+[x] <item> **독립변수 1**: 기온 (°C)
+[ ] <item> **독립변수 2**: 습도 (%)
 - **종속변수**: 전력소비량 (MWh)
 
 ### 2. 분산분석 (ANOVA)
-- **독립변수**: 계절 (spring, summer, fall, winter)
+[ ] <item> **독립변수**: 계절 (spring, summer, fall, winter)
 - **종속변수**: 전력소비량 (MWh)
 
 ### 3. 분석 도구
